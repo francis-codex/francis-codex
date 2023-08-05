@@ -1,4 +1,4 @@
-![pic](.Codex.png)
+![pic](https://github.com/francis-codex/francis-codex/blob/main/Codex.png)
 
 
 # 💫 About Me:
