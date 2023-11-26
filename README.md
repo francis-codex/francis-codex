@@ -2,20 +2,18 @@
 
 
 # 💫 About Me:
- 👋 Hello, there! I'm Francis-Codex 🚀<br><br>Welcome to my GitHub Space! I'm a passionate and creative **Full Stack Web 2 & 3 Developer** 🌐<br><br> # **💼What I Do**<br><br>As a full-stack developer, I have hands-on experience working with the latest web technologies, frameworks, and libraries. I love tackling challenges at every layer of the stack.<br><br>## 🌟 **My Journey**<br><br>My coding journey began with a curiosity for technology and a desire to bring ideas to life through code.. <br><br>## 🚀 **My Passion**<br><br>What excites me the most about web development is the ability to create solutions that make a positive impact on people's lives.<br><br>## 🤝 Let's Connect & build digital magic! 🚀✨ <br><br>I'm always looking for exciting opportunities to collaborate on interesting projects or contribute to meaningful initiatives. Feel free to reach out to me for discussions, or just to say "Hi"! Let's connect.<br><br>## 🌟 Open Source Contributions<br><br>I'm a strong believer in giving back to the community. Check out my open-source contributions and repositories.<br><br>⭐️ Don't forget to star some of my projects if you find them interesting! Your support means a lot to me.<br><br>Let's build, learn, and make a positive impact together! 🚀<br>
+ 👋 Hello, there! I'm Francis-Codex 🚀<br><br>where innovation meets expertise! I am a dedicated and inventive **Full Stack Web 2 & 3 Developer** 🌐 with a fervor for creating seamless digital experiences. 🌐<br><br> # **💼What I Do**<br><br>In my role as a full-stack developer, I engage with cutting-edge web technologies, frameworks, and libraries. I thrive on addressing challenges across the entire software stack, ensuring robust and dynamic solutions.<br><br>## 🌟 **My Journey**<br><br>My coding journey commenced with a curiosity for technology and a determination to translate ideas into reality through code....<br><br>## 🚀 **My Passion**<br><br>The aspect of web development that truly captivates me is the power to craft solutions that have a positive impact on people's lives.<br><br>## 🤝 Let's Connect & build digital magic! 🚀✨ <br><br>I actively seek exciting opportunities to collaborate on noteworthy projects or contribute to impactful initiatives. Whether for discussions or a simple "Hi," feel free to reach out. Let's connect.
+
+<br><br>## 🌟 Open Source Contributions<br><br>I firmly believe in giving back to the community. Explore my open-source contributions and repositories.<br><br>Let's build, learn, and make a positive impact together! ⭐️ Your support by starring some of my projects is greatly appreciated! Let's collaboratively build, learn, and make a positive impact together! 🚀🚀<br>
 
 
 ## 🌐 Socials:
-### Connect with Me:
-
 ### Connect with Me:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vrrDqmJ4)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/franciscodex999/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-codex-a84b68247/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@francislogo2219)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Francis-Codex)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21605157/francis-codex)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/francis_codex)
 
 
@@ -36,7 +34,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
