@@ -5,7 +5,7 @@
 👋 Hello, there! I'm **Francis Codex** <br>
          Full Stack Web | Software | Mobile | BlockChain Developer crafting seamless digital experiences. Passionate about building solutions that empower & connect. 🌐<br>
  # **💼What I Do**<br>
-I build things for the web. what do you do ?<br>
+Am a Developer, Proof => franciscodex.vercel.app <br>
  ## 🌟 **My Journey**<br>
 ❆ Curiosity ignited, code ignited my path.<br>
 ❆ Honing skills through projects, education & open-source<br>
