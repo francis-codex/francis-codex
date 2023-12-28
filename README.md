@@ -20,7 +20,7 @@
 ## 🌐 Socials:
 ### Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-codex-a84b68247/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/francis_codex/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/francis_codex) [![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/franciscodex) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-codex-a84b68247/)   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/francis_codex/)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/francis_codex)   [![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/franciscodex) 
 
 # 💻 Tech Stack:
 
