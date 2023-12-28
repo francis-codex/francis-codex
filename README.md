@@ -1,19 +1,18 @@
 ![pic](https://github.com/francis-codex/francis-codex/blob/main/codex2.png)
 
-
 # 💫 About Me:
-👋 Hello, there! I'm **Francis Codex** <br>
-         Full Stack Web | Software | Mobile | BlockChain Developer crafting seamless digital experiences. Passionate about building solutions that empower & connect. 🌐<br>
- # **💼What I Do**<br>
+👋 Hello, there! I'm ***Francis Codex***<br>
+# Full Stack Developer | Software | Mobile | BlockChain Developer  crafting seamless digital experiences. Passionate about building solutions that empower & connect. 🌐<br>
+# **💼What I Do**<br>
 # Am a Developer, Proof => [Portfolio](https://franciscodex.vercel.app/)<br>
- ## 🌟 **My Journey**<br>
+## 🌟 **My Journey**<br>
 ❆ Curiosity ignited, code ignited my path.<br>
 ❆ Honing skills through projects, education & open-source<br>
-## ** Connect & Build:**<br>
+## **Connect & Build:**<br>
 ❆ Collaborate on impactful projects<br>
 ❆ Open-source contributions<br>
 ❆ Just wanna chat code? Let's talk!<br>
-## ** Open Source:**<br>
+## **Open Source:**<br>
 ❆ Let's build, learn, & make a positive impact together!<br><br>
 **⭐️ Star my projects & join the journey! **
 
