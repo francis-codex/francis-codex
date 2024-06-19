@@ -1,3 +1,4 @@
+![Pic](https://github.com/francis-codex/francis-codex/blob/main/1.jpg)
 
  💫 About Me:
 ## 👋 Hello, there! I'm Francis<br><br>
