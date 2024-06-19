@@ -2,8 +2,7 @@
 
  💫 About Me:
 ## 👋 Hello, there! I'm Francis Codex<br><br>
-## Full Stack Developer | Software | Mobile | BlockChain Developer  crafting seamless digital experiences. Passionate about building solutions that empower & connect. 🌐<br>
-# **💼What I Do**<br>
+I am an experienced software and blockchain engineer with more than five years of expertise in dynamic technologies. I have a proven track record of delivering innovative solutions. I am proficient in frontend, backend, and blockchain development. My mission is to push technological boundaries and bridge the gap between conventional web development and blockchain innovation. I have a passion for delivering innovative digital solutions and embracing the full potential of web 3 technologies.# **💼What I Do**<br>
  ## Design and Development of Softwares, Websites and Apps.<br>
  ## Proof Of Work => [PORTFOLIO](https://franciscodex.vercel.app/)<br>
 ## 🌟 **My Journey**<br>
