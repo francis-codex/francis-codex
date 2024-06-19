@@ -5,7 +5,7 @@
 I am an experienced software and blockchain engineer with 5+ years in dynamic technologies. Proven track record in delivering innovative solutions across frontend, backend, and blockchain development. Bridging the gap between conventional web dev and blockchain innovation. Passionate about delivering cutting-edge digital solutions and embracing web 3 potential.
 # **💼What I Do**<br>
  ## Design and Development of Softwares, Websites and Apps.<br>
- ## Proof Of Work => [PORTFOLIO](https://franciscodex.vercel.app/)<br>
+ ## Proof Of Work => My diverse projects showcase real-world experience and problem-solving capabilities across various technologies. [Portfolio](https://franciscodex.vercel.app/) <br>
 ## 🌟 **My Journey**<br>
 ❆ Curiosity ignited, code ignited my path.<br>
 ❆ Honing skills through projects, education & open-source<br>
