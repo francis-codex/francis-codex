@@ -2,7 +2,7 @@
 
  💫 About Me:
 ## 👋 Hello, there! I'm Francis<br><br>
-#### I am an experienced software and blockchain engineer with 5+ years in dynamic technologies. Proven track record in delivering innovative solutions across frontend, backend, and blockchain development. Bridging the gap between conventional web dev and blockchain innovation. Passionate about delivering cutting-edge digital solutions and embracing web 3 potential.
+### I'm an experienced software and blockchain engineer with over five years in dynamic technologies. I deliver innovative solutions across frontend, backend, and blockchain development. My passion is bridging the gap between conventional web development and blockchain innovation, and I'm excited to deliver cutting-edge digital solutions that embrace Web3's potential.
 ### My diverse projects showcase real-world experience and problem-solving capabilities across various technologies. [Check out portfolio](https://franciscodex.vercel.app/) <br>
 ### ❆ Let's build, learn, & make a positive impact together!<br>
 ### ⭐️ Star my projects & join the journey!
