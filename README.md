@@ -1,5 +1,3 @@
-![Pic](https://github.com/francis-codex/francis-codex/blob/main/1.png)
-
 ## 👋 Hi, there! I'm Francis Codex <br>
 ### A software engineer focusing on blockchain technology, developer relations, and advocacy.
 
