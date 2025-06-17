@@ -1,10 +1,6 @@
 ## 👋 Hi, there! I'm Francis Codex <br>
 ### A software engineer focusing on blockchain technology, developer relations, and advocacy.
 
-## 🌐 Socials:
-### Connect with Me:
-# [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-codex-a84b68247/) - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/francis_codex) - [![Linktree](https://img.shields.io/badge/Linktree-%23000000.svg?logo=linktree&logoColor=white)](https://linktr.ee/franciscodex) 
-
 # 💻 Tech Stack:
 
 ## Programming Languages:
