@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Seedless: Earn in dollars, spend at home." width="100%">
+  <img src="assets/banner.png" alt="seedless: earn in dollars. spend at home." width="100%">
 </p>
 
 ### francis codex
